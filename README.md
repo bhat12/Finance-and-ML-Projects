@@ -3,3 +3,4 @@
 ##### 1.) Portfolio optimization of 3 Banking Stocks 
 ##### 2.) Flight Fare Prediction
 ##### 3.) DCF valuation of TESLA and CHEESECO
+##### 4.) Piotroski F-score and Joel Greenblatt Implementation
